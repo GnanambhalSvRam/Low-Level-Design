@@ -1,0 +1,9 @@
+1. Creating Singleton Classes in Python
+
+        Singleton Classes are to be created for all the managers - CustomerManager, DeliveryAgentManager, RestaurantManager, StrategyManager
+        How do we create Singleton classes in Python? 
+        Using the __new__ function 
+
+2. Areas for improvement:
+        2.1. Making order creation thread safe (orderManager.py)
+        2.2. Should wait until a delivery agent becomes available (locationBasedAgentMatching.py)
